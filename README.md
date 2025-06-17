@@ -24,6 +24,7 @@ Ein interaktives Toolkit zur Bewertung von Bonus-Zertifikaten mit integrierter K
 ---
 
 ## 🗂️ Projektstruktur
+```bash
 
 projekt2-zertifikate-toolkit/
 ├── app.py # Haupt-App (Streamlit)
