@@ -35,7 +35,7 @@ projekt2-zertifikate-toolkit/
 ├── data/
 │ └── beispiel_preise.csv # Beispielhafte Kursdaten
 ├── requirements.txt # Abhängigkeiten
-´´´
+```bash
 ## 🌍 Live Demo
 
 👉 [Click here to open the app](https://zertifikate-toolkit-o68vkuemgqrcbquqq86fve.streamlit.app/)
